@@ -1,0 +1,1 @@
+("8.8" ta6osx ("469fddb64793f7ad8273a5f814a245051234d091" . "186d137c168d344b4e8e2b16c25f6ebb117c6ee0") #"/Users/bhaveshnankani/Downloads/sn-scheme-template hemant/sn-utils.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
